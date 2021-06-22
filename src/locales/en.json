@@ -1,0 +1,34 @@
+{
+  "message": "Welcome to Bikeshop4711",
+  "titleText": "We are a little Bikeshop in Brandenburg an der Havel.",
+  "cart": "cart",
+  "productArea": "Product area",
+  "currency": "$",
+  "products":{
+    "product1": {
+      "productName1": "Bike Ultra Fast",
+      "productDesc1": "Nice track bike with comfortable seat.",
+      "productPrice1": "435,99"
+    },
+    "product2": {
+      "productName2": "Bike Ultra Slow",
+      "productDesc2": "Calm ride, calm tour.",
+      "productPrice2": "657,08"
+    },
+    "product3": {
+      "productName3": "Bicycle Handlebars",
+      "productDesc3": "Maximum control, maximum power!",
+      "productPrice3": "35,00"
+    },
+    "product4": {
+      "productName4": "Bicycle Pedals",
+      "productDesc4": "Grip is everything!",
+      "productPrice4": "45,00"
+    },
+    "product5": {
+      "productName5": "Bicycle Bells",
+      "productDesc5": "What's ringing there? It's the sound of a smooth sunday ride.",
+      "productPrice5": "14,00"
+    }
+  }
+}

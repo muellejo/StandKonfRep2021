@@ -1,0 +1,35 @@
+{
+    "message": "Herzlich Willkommen im Bikeshop4711",
+    "titleText": "Wir sind ein kleiner Fahrradladen in Brandenburg an der Havel.",
+    "cart": "Einkaufswagen",
+    "productArea": "Produktbereich",
+    "currency": "€",
+    "products":{
+        "product1": {
+          "productName1": "Fahrrad Ultra Schnell",
+          "productDesc1": "Tolles Bahnenrad mit angenehmen Sattel.",
+          "productPrice1": "435,99"
+        },
+        "product2": {
+          "productName2": "Fahrrad Ultra Langsam",
+          "productDesc2": "Entspannte Fahrt, entspannte Tour.",
+          "productPrice2": "657,08"
+        },
+        "product3": {
+          "productName3": "Fahrradlenker",
+          "productDesc3": "Maximale Kontrolle, Maximale Kraft!",
+          "productPrice3": "35,00"
+        },
+        "product4": {
+          "productName4": "Fahrradpedalen",
+          "productDesc4": "Halt ist alles!",
+          "productPrice4": "45,00"
+        },
+        "product5": {
+          "productName5": "Fahrradklingel",
+          "productDesc5": "Was klingelt denn da so? Es ist das Geräusch einer entspannten Sonntagsfahrt.",
+          "productPrice5": "14,00"
+        }
+      }
+  }
+  
