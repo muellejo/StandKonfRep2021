@@ -1,43 +1,43 @@
 {
-  "message": "Bonjour to Bikeshop4711",
-  "titleText": "French Bikeshop in Brandenburg an der Havel.",
-  "cart": "french cart",
-  "productArea": "fr-Product area",
-  "currency": "€",
-  "productSizeBike": "fr-inch",
-  "productSizePart": "fr-mm",
-  "productSizeOneSize": "fr-one size",
+  "message": "Sinhalese to Bikeshop4711",
+  "titleText": "Sinhalese Bikeshop in Brandenburg an der Havel.",
+  "cart": "sinhalese cart",
+  "productArea": "si-Product area",
+  "currency": "LKR",
+  "productSizeBike": "si-inch",
+  "productSizePart": "si-mm",
+  "productSizeOneSize": "si-one size",
   "products":{
     "product1": {
-      "productName1": "fr-Bike Ultra Fast",
-      "productDesc1": "fr-Nice track bike with comfortable seat.",
+      "productName1": "si-Bike Ultra Fast",
+      "productDesc1": "si-Nice track bike with comfortable seat.",
       "productType1": "Bike" ,
       "productSize1": "28",
       "productPrice1": "435,99"
     },
     "product2": {
       "productName2": "Bike Ultra Slow",
-      "productDesc2": "fr-Calm ride, calm tour.",
+      "productDesc2": "si-Calm ride, calm tour.",
       "productType2": "Bike" ,
-      "productSize2": "28",
+      "productSize2": "26",
       "productPrice2": "657,08"
     },
     "product3": {
       "productName3": "Bicycle Handlebars",
-      "productDesc3": "fr-Maximum control, maximum power!",
+      "productDesc3": "si-Maximum control, maximum power!",
       "productType3": "Part",
       "productSize3": "30.70",
       "productPrice3": "35,00"
     },
     "product4": {
       "productName4": "Bicycle Pedals",
-      "productDesc4": "fr-Grip is everything!",
+      "productDesc4": "si-Grip is everything!",
       "productType4": "Part-onesize",
       "productPrice4": "45,00"
     },
     "product5": {
       "productName5": "Bicycle Bells",
-      "productDesc5": "fr-What's ringing there? It's the sound of a smooth sunday ride.",
+      "productDesc5": "si-What's ringing there? It's the sound of a smooth sunday ride.",
       "productType5": "Part-onesize",
       "productPrice5": "14,00"
     }

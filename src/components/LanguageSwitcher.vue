@@ -72,7 +72,22 @@
             @keydown.esc.exact="hideDropdown"
           >
             <img src="/flag_de.png" alt="german flag" class="h-8 w-8">
-            <span class="ml-2">German</span>
+            <span class="ml-2">Deutsch</span>
+          </a>
+        </li>
+        <li>
+          <a
+            href="#"
+            @click.prevent="setLocale('si')"
+            class="flex items-center px-3 py-3 hover:bg-gray-200"
+            @keydown.shift.tab="focusPrevious(false)"
+            @keydown.up.exact.prevent="focusPrevious(true)"
+            @keydown.down.exact.prevent=""
+            @keydown.tab.exact="hideDropdown"
+            @keydown.esc.exact="hideDropdown"
+          >
+            <img src="/flag_si.png" alt="sinhalese flag" class="h-8 w-8">
+            <span class="ml-2">Sinhalese</span>
           </a>
         </li>
       </ul>
