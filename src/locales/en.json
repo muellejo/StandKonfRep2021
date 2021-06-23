@@ -1,6 +1,6 @@
 {
   "message": "Welcome to Bikeshop4711",
-  "titleText": "We are a little Bikeshop in Brandenburg an der Havel.",
+  "titleText": "We are a little bike shop in Brandenburg an der Havel.",
   "cart": "cart",
   "productArea": "Product area",
   "currency": "$",
@@ -37,7 +37,7 @@
     },
     "product5": {
       "productName5": "Bicycle Bells",
-      "productDesc5": "What's ringing there? It's the sound of a smooth sunday ride.",
+      "productDesc5": "What's ringing there? It's the sound of a smooth Sunday ride.",
       "productType5": "Part-onesize" ,
       "productPrice5": "14,00"
     }

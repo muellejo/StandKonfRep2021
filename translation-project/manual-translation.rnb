@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rainbowProject version="4"><fileSet id="1"><root useCustom="1">/Users/jmuller/Documents/01-Studium/Materialien/4.Semester/WP-StandardkonformeRepräsentation/project/StandKonfRep2021</root><fi fs="okf_json@special-rules-bikeshop4711" fo="" se="" te="">src/locales/en.json</fi></fileSet><fileSet id="2"><root useCustom="0">/Users/jmuller</root></fileSet><fileSet id="3"><root useCustom="0">/Users/jmuller</root></fileSet><output><root use="0"></root><subFolder use="0"></subFolder><extension use="1" style="0">.out</extension><replace use="0" oldText="" newText=""></replace><prefix use="0"></prefix><suffix use="0"></suffix></output><options sourceLanguage="en-US" sourceEncoding="UTF-8" targetLanguage="de" targetEncoding="UTF-8"></options><parametersFolder useCustom="0">/Users/jmuller</parametersFolder><utilities xml:spaces="preserve"><params id="TranslationKitCreationPipeline">&lt;?xml version="1.0" encoding="UTF-8"?>
+<rainbowProject version="4"><fileSet id="1"><root useCustom="1">/Users/jmuller/Documents/01-Studium/Materialien/4.Semester/WP-StandardkonformeRepräsentation/project/StandKonfRep2021</root><fi fs="okf_rainbowkit" fo="" se="" te="">translation-project/pack1/manifest.rkm</fi></fileSet><fileSet id="2"><root useCustom="0">/Users/jmuller</root></fileSet><fileSet id="3"><root useCustom="0">/Users/jmuller</root></fileSet><output><root use="0"></root><subFolder use="0"></subFolder><extension use="1" style="0">.out</extension><replace use="0" oldText="" newText=""></replace><prefix use="0"></prefix><suffix use="0"></suffix></output><options sourceLanguage="en-US" sourceEncoding="UTF-8" targetLanguage="de" targetEncoding="UTF-8"></options><parametersFolder useCustom="0">/Users/jmuller</parametersFolder><utilities xml:spaces="preserve"><params id="TranslationKitCreationPipeline">&lt;?xml version="1.0" encoding="UTF-8"?>
 &lt;rainbowPipeline version="1">&lt;step class="net.sf.okapi.steps.common.RawDocumentToFilterEventsStep">&lt;/step>
 &lt;step class="net.sf.okapi.steps.segmentation.SegmentationStep">#v1
 segmentSource.b=false
@@ -68,5 +68,14 @@ writerOptions.includeAltTrans.b=true
 writerOptions.includeCodeAttrs.b=false
 writerOptions.includeIts.b=true
 writerOptions.escapeGT.b=false&lt;/step>
+&lt;/rainbowPipeline>
+</params><params id="TranslationKitPostProcessingPipeline">&lt;?xml version="1.0" encoding="UTF-8"?>
+&lt;rainbowPipeline version="1">&lt;step class="net.sf.okapi.steps.common.RawDocumentToFilterEventsStep">&lt;/step>
+&lt;step class="net.sf.okapi.steps.rainbowkit.postprocess.MergingStep">#v1
+preserveSegmentation.b=false
+returnRawDocument.b=false
+forceTargetLocale.b=false
+addMissingCodes.b=true
+overrideOutputPath=&lt;/step>
 &lt;/rainbowPipeline>
 </params></utilities></rainbowProject>
