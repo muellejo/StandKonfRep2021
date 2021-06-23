@@ -1,0 +1,14 @@
+6/23/21 4:31 AM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	      32	   73	                        381	                          423	     1	
+Remaining:       	      13	   13	                         72	                           72	     1	
+Unique:          	      30	   71	                        365	                          407	     1	
+Unique Remaining:	      11	   11	                         56	                           56	     1	
+
+
+Individual File Statistics:
+
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+en.json  	            32	                13	             30	                       11	         73	             13	          71	                    11	                              381	                                   72	                               365	                                          56	                                423	                                     72	                                 407	                                            56	

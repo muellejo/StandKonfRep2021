@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--=================================================================-->
+<!--PLEASE, DO NOT RENAME, MOVE, MODIFY OR ALTER IN ANY WAY THIS FILE-->
+<!--=================================================================-->
+<manifest version="2" libVersion="1.41.0" projectId="NB8A74E0B" packageId="e94e9a50-6182-4850-90b7-52182139a18d" source="en-US" target="de" originalSubDir="original" skeletonSubDir="skeleton" sourceSubDir="work" targetSubDir="work" mergeSubDir="done" tmSubDir="" date="2021-06-23 03:57:11+0200" useApprovedOnly="0" updateApprovedFlag="0">
+<creatorParameters>I3YxCnBsYWNlaG9sZGVyTW9kZS5iPXRydWUKaW5jbHVkZU5vVHJhbnNsYXRlLmI9dHJ1ZQpzZXRBcHByb3ZlZEFzTm9UcmFuc2xhdGUuYj1mYWxzZQpjb3B5U291cmNlLmI9dHJ1ZQppbmNsdWRlQWx0VHJhbnMuYj10cnVlCmluY2x1ZGVDb2RlQXR0cnMuYj1mYWxzZQppbmNsdWRlSXRzLmI9dHJ1ZQplc2NhcGVHVC5iPWZhbHNl</creatorParameters>
+<doc xml:space="preserve" docId="1" extractionType="xliff" relativeInputPath="src/locales/en.json" filterId="okf_json" inputEncoding="UTF-8" relativeTargetPath="src/locales/en.out.json" targetEncoding="UTF-8" selected="1">I3YxCmV4dHJhY3RJc29sYXRlZFN0cmluZ3MuYj1mYWxzZQpleHRyYWN0QWxsUGFpcnMuYj10cnVlCmV4Y2VwdGlvbnM9CnVzZUtleUFzTmFtZS5iPXRydWUKdXNlRnVsbEtleVBhdGguYj1mYWxzZQp1c2VMZWFkaW5nU2xhc2hPbktleVBhdGguYj10cnVlCmVzY2FwZUZvcndhcmRTbGFzaGVzLmI9dHJ1ZQp1c2VDb2RlRmluZGVyLmI9ZmFsc2UKbm90ZVJ1bGVzPQpleHRyYWN0aW9uUnVsZXM9CmlkUnVsZXM9CmdlbmVyaWNNZXRhUnVsZXM9CmNvZGVGaW5kZXJSdWxlcy5jb3VudC5pPTEKY29kZUZpbmRlclJ1bGVzLnJ1bGUwPTwvPyhbQS1aMC05YS16XSopXGJbXj5dKj4KY29kZUZpbmRlclJ1bGVzLnNhbXBsZT0mbmFtZTsgPHRhZz48L2F0Pjx0YWcvPiA8dGFnIGF0dHI9J3ZhbCc+IDwvdGFnPSJ2YWwiPgpjb2RlRmluZGVyUnVsZXMudXNlQWxsUnVsZXNXaGVuVGVzdGluZy5iPXRydWU=</doc>
+</manifest>

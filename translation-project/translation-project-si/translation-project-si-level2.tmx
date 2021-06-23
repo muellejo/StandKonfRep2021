@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>$</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021205Z" creationid="jmuller" creationdate="20210623T021205Z">
+        <seg>LKR</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bicycle Bells</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021456Z" creationid="jmuller" creationdate="20210623T021456Z">
+        <seg>බයිසිකල් බෙල්ස්</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bicycle Handlebars</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021405Z" creationid="jmuller" creationdate="20210623T021405Z">
+        <seg>බයිසිකල් හැන්ඩ්බාර්</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bicycle Pedals</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021428Z" creationid="jmuller" creationdate="20210623T021428Z">
+        <seg>බයිසිකල් පෙඩල්</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bike Ultra Fast</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021316Z" creationid="jmuller" creationdate="20210623T021316Z">
+        <seg>බයික් අල්ට්රා වේගවත්</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Bike Ultra Slow</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021341Z" creationid="jmuller" creationdate="20210623T021341Z">
+        <seg>බයික් අල්ට්රා මන්දගාමී</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Calm ride, calm tour.</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021352Z" creationid="jmuller" creationdate="20210623T021352Z">
+        <seg>සන්සුන් ගමන, සන්සුන් චාරිකාව.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Grip is everything!</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021448Z" creationid="jmuller" creationdate="20210623T021448Z">
+        <seg>ග්‍රහණය යනු සියල්ලයි!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>It's the sound of a smooth sunday ride.</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021526Z" creationid="jmuller" creationdate="20210623T021526Z">
+        <seg>එය සුමට ඉරිදා ගමනක ශබ්දයයි.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Maximum control, maximum power!</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021414Z" creationid="jmuller" creationdate="20210623T021414Z">
+        <seg>උපරිම පාලනය, උපරිම බලය!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Nice track bike with comfortable seat.</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021331Z" creationid="jmuller" creationdate="20210623T021331Z">
+        <seg>සුවපහසු ආසනයක් සහිත ලස්සන ධාවන පථයක්.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Product area</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021142Z" creationid="jmuller" creationdate="20210623T021142Z">
+        <seg>නිෂ්පාදන ප්‍රදේශය </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>We are a little Bikeshop in Brandenburg an der Havel.</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021110Z" creationid="jmuller" creationdate="20210623T021110Z">
+        <seg>අපි බ්‍රැන්ඩන්බර්ග් ඇන් ඩර් හැවෙල්හි කුඩා බයික් සාප්පුවක්.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>Welcome to Bikeshop4711</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021054Z" creationid="jmuller" creationdate="20210623T021054Z">
+        <seg>Bikeshop4711 වෙත සාදරයෙන් පිළිගනිමු</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>What's ringing there?</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021511Z" creationid="jmuller" creationdate="20210623T021511Z">
+        <seg>එහි නාද වන්නේ කුමක්ද?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>cart</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021125Z" creationid="jmuller" creationdate="20210623T021125Z">
+        <seg>කරත්තය</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>inch</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021215Z" creationid="jmuller" creationdate="20210623T021215Z">
+        <seg>අඟල්</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>mm</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021250Z" creationid="jmuller" creationdate="20210623T021250Z">
+        <seg>මිලිමීටර </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN-US">
+        <seg>one size</seg>
+      </tuv>
+      <tuv xml:lang="si" changeid="jmuller" changedate="20210623T021304Z" creationid="jmuller" creationdate="20210623T021304Z">
+        <seg>එක් ප්‍රමාණයක්</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

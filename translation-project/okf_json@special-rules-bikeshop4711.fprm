@@ -1,0 +1,18 @@
+#v1
+extractIsolatedStrings.b=true
+extractAllPairs.b=false
+exceptions=/products/product*/productType*
+useKeyAsName.b=false
+useFullKeyPath.b=true
+useLeadingSlashOnKeyPath.b=true
+escapeForwardSlashes.b=true
+useCodeFinder.b=false
+noteRules=
+extractionRules=
+idRules=
+genericMetaRules=
+codeFinderRules.count.i=1
+codeFinderRules.rule0=</?([A-Z0-9a-z]*)\b[^>]*>
+codeFinderRules.sample=&name; <tag></at><tag/> <tag attr='val'> </tag="val">
+codeFinderRules.useAllRulesWhenTesting.b=true
+subfilter=

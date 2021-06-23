@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e0" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>$</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T013818Z" creationid="jmuller" creationdate="20210623T013818Z">
+        <seg>€</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bicycle Bells</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T014110Z" creationid="jmuller" creationdate="20210623T014110Z">
+        <seg>Cloches de bicyclette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bicycle Handlebars</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T014004Z" creationid="jmuller" creationdate="20210623T014004Z">
+        <seg>Guidon de bicyclette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bicycle Pedals</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T014035Z" creationid="jmuller" creationdate="20210623T014035Z">
+        <seg>Pédales de bicyclette</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bike Ultra Fast</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T013854Z" creationid="jmuller" creationdate="20210623T013854Z">
+        <seg>Vélo ultra rapide</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Bike Ultra Slow</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T013935Z" creationid="jmuller" creationdate="20210623T013935Z">
+        <seg>Vélo ultra lent</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Calm ride, calm tour.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T013949Z" creationid="jmuller" creationdate="20210623T013949Z">
+        <seg>Un trajet calme, une visite calme.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Grip is everything!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T014407Z" creationid="jmuller" creationdate="20210623T014057Z">
+        <seg>L'adhérence est essentielle!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It's the sound of a smooth sunday ride.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T014309Z" creationid="jmuller" creationdate="20210623T014208Z">
+        <seg>PC'est le son d'une douce promenade du dimanche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maximum control, maximum power!</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T014423Z" creationid="jmuller" creationdate="20210623T014022Z">
+        <seg>Contrôle maximal, puissance maximale!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Nice track bike with comfortable seat.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T013917Z" creationid="jmuller" creationdate="20210623T013917Z">
+        <seg>Belle moto de piste avec une selle confortable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Product area</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T014342Z" creationid="jmuller" creationdate="20210623T013420Z">
+        <seg>Secteur des produits</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We are a little Bikeshop in Brandenburg an der Havel.</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T013332Z" creationid="jmuller" creationdate="20210623T013332Z">
+        <seg>Nous sommes un petit Bikeshop dans le Brandebourg an der Havel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to Bikeshop4711</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T013317Z" creationid="jmuller" creationdate="20210623T013317Z">
+        <seg>Bienvenue sur Bikeshop4711</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What's ringing there?</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T014416Z" creationid="jmuller" creationdate="20210623T014127Z">
+        <seg>Qu'est-ce qui sonne là?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>cart</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T014315Z" creationid="jmuller" creationdate="20210623T013339Z">
+        <seg>Panier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>inch</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T014323Z" creationid="jmuller" creationdate="20210623T013822Z">
+        <seg>Pouce</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>one size</seg>
+      </tuv>
+      <tuv lang="FR" changeid="jmuller" changedate="20210623T014349Z" creationid="jmuller" creationdate="20210623T013836Z">
+        <seg>Taille unique</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
