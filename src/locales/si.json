@@ -2,10 +2,10 @@
   "message": "Bikeshop4711 වෙත සාදරයෙන් පිළිගනිමු",
   "titleText": "අපි බ්‍රැන්ඩන්බර්ග් ඇන් ඩර් හැවෙල්හි කුඩා බයික් සාප්පුවක්.",
   "cart": "කරත්තය",
-  "productArea": "නිෂ්පාදන ප්‍රදේශය ",
+  "productArea": "නිෂ්පාදන ප්‍රදේශය",
   "currency": "LKR",
   "productSizeBike": "අඟල්",
-  "productSizePart": "මිලිමීටර ",
+  "productSizePart": "mm",
   "productSizeOneSize": "එක් ප්‍රමාණයක්",
   "products":{
     "product1": {
@@ -31,7 +31,7 @@
     },
     "product4": {
       "productName4": "බයිසිකල් පෙඩල්",
-      "productDesc4": "ග්‍රහණය යනු සියල්ලයි!",
+      "productDesc4": "ග්‍රහණය යනු සියල්ලයි",
       "productType4": "Part-onesize",
       "productPrice4": "45,00"
     },
