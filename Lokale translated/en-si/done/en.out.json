@@ -1,0 +1,45 @@
+{
+  "message": "Bikeshop4711 වෙත සාදරයෙන් පිළිගනිමු",
+  "titleText": "අපි බ්‍රැන්ඩන්බර්ග් ඇන් ඩර් හැවෙල්හි කුඩා බයික් සාප්පුවක්.",
+  "cart": "කරත්තය",
+  "productArea": "නිෂ්පාදන ප්‍රදේශය",
+  "currency": "LKR",
+  "productSizeBike": "අඟල්",
+  "productSizePart": "mm",
+  "productSizeOneSize": "එක් ප්‍රමාණයක්",
+  "products":{
+    "product1": {
+      "productName1": "බයික් අල්ට්රා වේගවත්",
+      "productDesc1": "සුවපහසු ආසනයක් සහිත ලස්සන ධාවන පථයක්.",
+      "productType1": "Bike"  ,
+      "productSize1": "28",
+      "productPrice1": "435,99"
+    },
+    "product2": {
+      "productName2": "බයික් අල්ට්රා මන්දගාමී",
+      "productDesc2": "සන්සුන් ගමන, සන්සුන් චාරිකාව.",
+      "productType2": "Bike",
+      "productSize2": "26",
+      "productPrice2": "657,08"
+    },
+    "product3": {
+      "productName3": "බයිසිකල් හැන්ඩ්බාර්",
+      "productDesc3": "උපරිම පාලනය, උපරිම බලය!",
+      "productType3": "Part",
+      "productSize3": "30.70",
+      "productPrice3": "35,00"
+    },
+    "product4": {
+      "productName4": "බයිසිකල් පෙඩල්",
+      "productDesc4": "ග්‍රහණය යනු සියල්ලයි",
+      "productType4": "Part-onesize",
+      "productPrice4": "45,00"
+    },
+    "product5": {
+      "productName5": "බයිසිකල් බෙල්ස්",
+      "productDesc5": "එහි නාද වන්නේ කුමක්ද? එය සුමට ඉරිදා ගමනක ශබ්දයයි.",
+      "productType5": "Part-onesize"  ,
+      "productPrice5": "14,00"
+    }
+  }
+}

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:okp="okapi-framework:xliff-extensions" xmlns:its="http://www.w3.org/2005/11/its" xmlns:itsxlf="http://www.w3.org/ns/its-xliff/" its:version="2.0">
+<file original="en.json" source-language="en-US" target-language="fr" datatype="x-application/json">
+<body>
+<group id="sg1">
+<trans-unit id="tu1" resname="message" xml:space="preserve">
+<source xml:lang="en-US">Welcome to Bikeshop4711</source>
+<target xml:lang="fr">Bienvenue sur Bikeshop4711</target>
+</trans-unit>
+<trans-unit id="tu2" resname="titleText" xml:space="preserve">
+<source xml:lang="en-US">We are a little Bikeshop in Brandenburg an der Havel.</source>
+<target xml:lang="fr">Nous sommes un petit Bikeshop dans le Brandebourg an der Havel.</target>
+</trans-unit>
+<trans-unit id="tu3" resname="cart" xml:space="preserve">
+<source xml:lang="en-US">cart</source>
+<target xml:lang="fr">Panier</target>
+</trans-unit>
+<trans-unit id="tu4" resname="productArea" xml:space="preserve">
+<source xml:lang="en-US">Product area</source>
+<target xml:lang="fr">Secteur des produits</target>
+</trans-unit>
+<trans-unit id="tu5" resname="currency" xml:space="preserve">
+<source xml:lang="en-US">$</source>
+<target xml:lang="fr">€</target>
+</trans-unit>
+<trans-unit id="tu6" resname="productSizeBike" xml:space="preserve">
+<source xml:lang="en-US">inch</source>
+<target xml:lang="fr">Pouce</target>
+</trans-unit>
+<trans-unit id="tu7" resname="productSizePart" xml:space="preserve">
+<source xml:lang="en-US">mm</source>
+<target xml:lang="fr">mm</target>
+</trans-unit>
+<trans-unit id="tu8" resname="productSizeOneSize" xml:space="preserve">
+<source xml:lang="en-US">one size</source>
+<target xml:lang="fr">Taille unique</target>
+</trans-unit>
+<group id="sg2">
+<group id="sg3">
+<trans-unit id="tu9" resname="productName1" xml:space="preserve">
+<source xml:lang="en-US">Bike Ultra Fast</source>
+<target xml:lang="fr">Vélo ultra rapide</target>
+</trans-unit>
+<trans-unit id="tu10" resname="productDesc1" xml:space="preserve">
+<source xml:lang="en-US">Nice track bike with comfortable seat.</source>
+<target xml:lang="fr">Belle moto de piste avec une selle confortable.</target>
+</trans-unit>
+<trans-unit id="tu11" resname="productType1" xml:space="preserve">
+<source xml:lang="en-US">Bike</source>
+<target xml:lang="fr">Bike</target>
+</trans-unit>
+<trans-unit id="tu12" resname="productSize1" xml:space="preserve">
+<source xml:lang="en-US">28</source>
+<target xml:lang="fr">28</target>
+</trans-unit>
+<trans-unit id="tu13" resname="productPrice1" xml:space="preserve">
+<source xml:lang="en-US">435,99</source>
+<target xml:lang="fr">435,99</target>
+</trans-unit>
+</group>
+<group id="sg4">
+<trans-unit id="tu14" resname="productName2" xml:space="preserve">
+<source xml:lang="en-US">Bike Ultra Slow</source>
+<target xml:lang="fr">Vélo ultra lent</target>
+</trans-unit>
+<trans-unit id="tu15" resname="productDesc2" xml:space="preserve">
+<source xml:lang="en-US">Calm ride, calm tour.</source>
+<target xml:lang="fr">Un trajet calme, une visite calme.</target>
+</trans-unit>
+<trans-unit id="tu16" resname="productType2" xml:space="preserve">
+<source xml:lang="en-US">Bike</source>
+<target xml:lang="fr">Bike</target>
+</trans-unit>
+<trans-unit id="tu17" resname="productSize2" xml:space="preserve">
+<source xml:lang="en-US">26</source>
+<target xml:lang="fr">26</target>
+</trans-unit>
+<trans-unit id="tu18" resname="productPrice2" xml:space="preserve">
+<source xml:lang="en-US">657,08</source>
+<target xml:lang="fr">657,08</target>
+</trans-unit>
+</group>
+<group id="sg5">
+<trans-unit id="tu19" resname="productName3" xml:space="preserve">
+<source xml:lang="en-US">Bicycle Handlebars</source>
+<target xml:lang="fr">Guidon de bicyclette</target>
+</trans-unit>
+<trans-unit id="tu20" resname="productDesc3" xml:space="preserve">
+<source xml:lang="en-US">Maximum control, maximum power!</source>
+<target xml:lang="fr">Contrôle maximal, puissance maximale!</target>
+</trans-unit>
+<trans-unit id="tu21" resname="productType3" xml:space="preserve">
+<source xml:lang="en-US">Part</source>
+<target xml:lang="fr">Part</target>
+</trans-unit>
+<trans-unit id="tu22" resname="productSize3" xml:space="preserve">
+<source xml:lang="en-US">30.70</source>
+<target xml:lang="fr">30.70</target>
+</trans-unit>
+<trans-unit id="tu23" resname="productPrice3" xml:space="preserve">
+<source xml:lang="en-US">35,00</source>
+<target xml:lang="fr">35,00</target>
+</trans-unit>
+</group>
+<group id="sg6">
+<trans-unit id="tu24" resname="productName4" xml:space="preserve">
+<source xml:lang="en-US">Bicycle Pedals</source>
+<target xml:lang="fr">Pédales de bicyclette</target>
+</trans-unit>
+<trans-unit id="tu25" resname="productDesc4" xml:space="preserve">
+<source xml:lang="en-US">Grip is everything!</source>
+<target xml:lang="fr">L'adhérence est essentielle!</target>
+</trans-unit>
+<trans-unit id="tu26" resname="productType4" xml:space="preserve">
+<source xml:lang="en-US">Part-onesize</source>
+<target xml:lang="fr">Part-onesize</target>
+</trans-unit>
+<trans-unit id="tu27" resname="productPrice4" xml:space="preserve">
+<source xml:lang="en-US">45,00</source>
+<target xml:lang="fr">45,00</target>
+</trans-unit>
+</group>
+<group id="sg7">
+<trans-unit id="tu28" resname="productName5" xml:space="preserve">
+<source xml:lang="en-US">Bicycle Bells</source>
+<target xml:lang="fr">Cloches de bicyclette</target>
+</trans-unit>
+<trans-unit id="tu29" resname="productDesc5" xml:space="preserve">
+<source xml:lang="en-US">What's ringing there? It's the sound of a smooth sunday ride.</source>
+<target xml:lang="fr">Qu'est-ce qui sonne là? PC'est le son d'une douce promenade du dimanche.</target>
+</trans-unit>
+<trans-unit id="tu30" resname="productType5" xml:space="preserve">
+<source xml:lang="en-US">Part-onesize</source>
+<target xml:lang="fr">Part-onesize</target>
+</trans-unit>
+<trans-unit id="tu31" resname="productPrice5" xml:space="preserve">
+<source xml:lang="en-US">14,00</source>
+<target xml:lang="fr">14,00</target>
+</trans-unit>
+</group>
+</group>
+</group>
+</body>
+</file>
+</xliff>
