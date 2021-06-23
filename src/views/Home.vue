@@ -37,10 +37,6 @@ export default {
     SelectablePlan
   },
   methods: {
-    setName(productName) {
-      var planName = productName
-      return planName 
-    }
   }
 }
 </script>
