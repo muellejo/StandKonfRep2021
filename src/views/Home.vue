@@ -7,7 +7,6 @@
       </div>
       <div class="mx-auto pt-8 pb-6 md:flex md:justify-between items-end border-b-2 border-gray-300">
         <div class="text-2xl mb-4 md:mb-0">{{ $t('productArea') }}</div>
-        <p>Hallo welt</p>
       </div>
       <div class="mx-auto py-8 md:flex md:justify-between md:flex-wrap">
         <selectable-plan
