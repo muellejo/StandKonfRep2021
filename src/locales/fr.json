@@ -9,37 +9,37 @@
   "productSizeOneSize": "Taille unique",
   "products":{
     "product1": {
-      "productName1": "Vélo ultra rapide",
-      "productDesc1": "Belle moto de piste avec une selle confortable.",
-      "productType1": "Bike"  ,
-      "productSize1": "28",
-      "productPrice1": "435,99"
+      "productName": "Vélo ultra rapide",
+      "productDesc": "Belle moto de piste avec une selle confortable.",
+      "productType": "Bike"  ,
+      "productSize": "28",
+      "productPrice": "435,99"
     },
     "product2": {
-      "productName2": "Vélo ultra lent",
-      "productDesc2": "Un trajet calme, une visite calme.",
-      "productType2": "Bike",
-      "productSize2": "26",
-      "productPrice2": "657,08"
+      "productName": "Vélo ultra lent",
+      "productDesc": "Un trajet calme, une visite calme.",
+      "productType": "Bike",
+      "productSize": "26",
+      "productPrice": "657,08"
     },
     "product3": {
-      "productName3": "Guidon de bicyclette",
-      "productDesc3": "Contrôle maximal, puissance maximale!",
-      "productType3": "Part",
-      "productSize3": "30.70",
-      "productPrice3": "35,00"
+      "productName": "Guidon de bicyclette",
+      "productDesc": "Contrôle maximal, puissance maximale!",
+      "productType": "Part",
+      "productSize": "30.70",
+      "productPrice": "35,00"
     },
     "product4": {
-      "productName4": "Pédales de bicyclette",
-      "productDesc4": "L'adhérence est essentielle!",
-      "productType4": "Part-onesize",
-      "productPrice4": "45,00"
+      "productName": "Pédales de bicyclette",
+      "productDesc": "L'adhérence est essentielle!",
+      "productType": "Part-onesize",
+      "productPrice": "45,00"
     },
     "product5": {
-      "productName5": "Cloches de bicyclette",
-      "productDesc5": "Qu'est-ce qui sonne là? C'est le son d'une douce promenade du dimanche.",
-      "productType5": "Part-onesize"  ,
-      "productPrice5": "14,00"
+      "productName": "Cloches de bicyclette",
+      "productDesc": "Qu'est-ce qui sonne là? C'est le son d'une douce promenade du dimanche.",
+      "productType": "Part-onesize"  ,
+      "productPrice": "14,00"
     }
   }
 }

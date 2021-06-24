@@ -9,37 +9,37 @@
   "productSizeOneSize": "one size",
   "products":{
     "product1": {
-      "productName1": "Bike Ultra Fast",
-      "productDesc1": "Nice track bike with comfortable seat.",
-      "productType1": "Bike" ,
-      "productSize1": "28",
-      "productPrice1": "435,99"
+      "productName": "Bike Ultra Fast",
+      "productDesc": "Nice track bike with comfortable seat.",
+      "productType": "Bike" ,
+      "productSize": "28",
+      "productPrice": "435,99"
     },
     "product2": {
-      "productName2": "Bike Ultra Slow",
-      "productDesc2": "Calm ride, calm tour.",
-      "productType2": "Bike",
-      "productSize2": "26",
-      "productPrice2": "657,08"
+      "productName": "Bike Ultra Slow",
+      "productDesc": "Calm ride, calm tour.",
+      "productType": "Bike",
+      "productSize": "26",
+      "productPrice": "657,08"
     },
     "product3": {
-      "productName3": "Bicycle Handlebars",
-      "productDesc3": "Maximum control, maximum power!",
-      "productType3": "Part",
-      "productSize3": "30.70",
-      "productPrice3": "35,00"
+      "productName": "Bicycle Handlebars",
+      "productDesc": "Maximum control, maximum power!",
+      "productType": "Part",
+      "productSize": "30.70",
+      "productPrice": "35,00"
     },
     "product4": {
-      "productName4": "Bicycle Pedals",
-      "productDesc4": "Grip is everything!",
-      "productType4": "Part-onesize",
-      "productPrice4": "45,00"
+      "productName": "Bicycle Pedals",
+      "productDesc": "Grip is everything!",
+      "productType": "Part-onesize",
+      "productPrice": "45,00"
     },
     "product5": {
-      "productName5": "Bicycle Bells",
-      "productDesc5": "What's ringing there? It's the sound of a smooth Sunday ride.",
-      "productType5": "Part-onesize" ,
-      "productPrice5": "14,00"
+      "productName": "Bicycle Bells",
+      "productDesc": "What's ringing there? It's the sound of a smooth Sunday ride.",
+      "productType": "Part-onesize" ,
+      "productPrice": "14,00"
     }
   }
 }

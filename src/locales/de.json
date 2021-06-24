@@ -9,37 +9,37 @@
   "productSizeOneSize": "Einheitsgröße",
   "products":{
     "product1": {
-      "productName1": "Fahrrad Ultra Schnell",
-      "productDesc1": "Tolles Bahnrad mit bequemen Sattel.",
-      "productType1": "Bike"  ,
-      "productSize1": "28",
-      "productPrice1": "435,99"
+      "productName": "Fahrrad Ultra Schnell",
+      "productDesc": "Tolles Bahnrad mit bequemen Sattel.",
+      "productType": "Bike"  ,
+      "productSize": "28",
+      "productPrice": "435,99"
     },
     "product2": {
-      "productName2": "Fahrrad Ultra Langsam",
-      "productDesc2": "Ruhige Fahrt, ruhige Tour.",
-      "productType2": "Bike",
-      "productSize2": "26",
-      "productPrice2": "657,08"
+      "productName": "Fahrrad Ultra Langsam",
+      "productDesc": "Ruhige Fahrt, ruhige Tour.",
+      "productType": "Bike",
+      "productSize": "26",
+      "productPrice": "657,08"
     },
     "product3": {
-      "productName3": "Fahrradlenker",
-      "productDesc3": "Maximale Kontrolle, maximale Kraft!",
-      "productType3": "Part",
-      "productSize3": "30.70",
-      "productPrice3": "35,00"
+      "productName": "Fahrradlenker",
+      "productDesc": "Maximale Kontrolle, maximale Kraft!",
+      "productType": "Part",
+      "productSize": "30.70",
+      "productPrice": "35,00"
     },
     "product4": {
-      "productName4": "Fahrradpedalen",
-      "productDesc4": "Halt ist alles!",
-      "productType4": "Part-onesize",
-      "productPrice4": "45,00"
+      "productName": "Fahrradpedalen",
+      "productDesc": "Halt ist alles!",
+      "productType": "Part-onesize",
+      "productPrice": "45,00"
     },
     "product5": {
-      "productName5": "Fahrradklingel",
-      "productDesc5": "Was klingelt dort? Es ist das Geräusch einer entspannten Sonntagsfahrt.",
-      "productType5": "Part-onesize"  ,
-      "productPrice5": "14,00"
+      "productName": "Fahrradklingel",
+      "productDesc": "Was klingelt dort? Es ist das Geräusch einer entspannten Sonntagsfahrt.",
+      "productType": "Part-onesize"  ,
+      "productPrice": "14,00"
     }
   }
 }
