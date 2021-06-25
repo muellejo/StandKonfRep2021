@@ -4,6 +4,12 @@
   "cart": "cart",
   "productArea": "Product area",
   "currency": "$",
+  "languageSwitcher": {
+    "en":"English (en)",
+    "fr":"French (fr)",
+    "de":"German (de)",
+    "si":"Sinhalese (si)"
+  },
   "productSizeBike": "inch",
   "productSizePart": "mm",
   "productSizeOneSize": "one size",

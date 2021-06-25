@@ -28,7 +28,7 @@
             @keydown.esc.exact="hideDropdown"
           >
             <img src="/flag_en.png" alt="english flag" class="h-8 w-8">
-            <span class="ml-2">English</span>
+            <span class="ml-2">{{ $t('languageSwitcher.en') }}</span>
           </a>
         </li>
         <!-- <li>
@@ -57,7 +57,7 @@
             @keydown.esc.exact="hideDropdown"
           >
             <img src="/flag_fr.png" alt="french flag" class="h-8 w-8">
-            <span class="ml-2">French</span>
+            <span class="ml-2">{{ $t('languageSwitcher.fr') }}</span>
           </a>
         </li>
         <li>
@@ -72,7 +72,7 @@
             @keydown.esc.exact="hideDropdown"
           >
             <img src="/flag_de.png" alt="german flag" class="h-8 w-8">
-            <span class="ml-2">Deutsch</span>
+            <span class="ml-2">{{ $t('languageSwitcher.de') }}</span>
           </a>
         </li>
         <li>
@@ -87,7 +87,7 @@
             @keydown.esc.exact="hideDropdown"
           >
             <img src="/flag_si.png" alt="sinhalese flag" class="h-8 w-8">
-            <span class="ml-2">Sinhalese</span>
+            <span class="ml-2">{{ $t('languageSwitcher.si') }}</span>
           </a>
         </li>
       </ul>

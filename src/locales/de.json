@@ -4,6 +4,12 @@
   "cart": "Einkaufswagen",
   "productArea": "Produktbereich",
   "currency": "€",
+  "languageSwitcher": {
+    "en":"Englisch (en)",
+    "fr":"Französisch (fr)",
+    "de":"Deutsch (de)",
+    "si":"Singhalesisch (si)"
+  },
   "productSizeBike": "Zoll",
   "productSizePart": "mm",
   "productSizeOneSize": "Einheitsgröße",

@@ -4,6 +4,12 @@
   "cart": "කරත්තය",
   "productArea": "නිෂ්පාදන ප්‍රදේශය",
   "currency": "LKR",
+  "languageSwitcher": {
+    "en":"ඉංග්රීසි (en)",
+    "fr":"ප්‍රංශ (fr)",
+    "de":"ජර්මානු (de)",
+    "si":"සිංහල (si)"
+  },
   "productSizeBike": "අඟල්",
   "productSizePart": "mm",
   "productSizeOneSize": "එක් ප්‍රමාණයක්",

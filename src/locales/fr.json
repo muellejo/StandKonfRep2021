@@ -4,6 +4,12 @@
   "cart": "Panier",
   "productArea": "Secteur des produits",
   "currency": "€",
+  "languageSwitcher": {
+    "en":"Anglais (en)",
+    "fr":"français (fr)",
+    "de":"Allemand (de)",
+    "si":"Cinghalais (si)"
+  },
   "productSizeBike": "Pouces",
   "productSizePart": "mm",
   "productSizeOneSize": "Taille unique",
